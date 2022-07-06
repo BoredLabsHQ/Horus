@@ -1,7 +1,7 @@
 # Horus
 StarkNet CTF to learn about security challenges in Cairo.
 
-Date: 22th july 2022 | Location: Paris & remote
+📌 [StarknetCC](https://www.starknet.cc/)  - Date: 22th july 2022 | Location: Paris & remote
 
 ## Resources
 Some usefull information to start with Cairo, complete challenges and learn about StarkNet.
